@@ -39,8 +39,11 @@ The teardown includes five feedback points across the following areas:
 ├── README.md
 ├── Product_Intern_Assignment.pdf
 ├── todo.md
+├── .agent_hooks/
+├── .browser_data/
 ├── outputs/
-└── screenshots/
+├── screenshots/
+└── .psiphon_data/
 ```
 
 ## Tools / Research Used
