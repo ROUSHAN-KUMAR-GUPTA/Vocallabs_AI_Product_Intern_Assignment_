@@ -1,0 +1,121 @@
+Title:           (anonymous)
+Subject:         (unspecified)
+Keywords:        
+Author:          (anonymous)
+Creator:         (unspecified)
+Producer:        ReportLab PDF Library - (opensource)
+CreationDate:    Thu May 28 09:56:47 2026 UTC
+ModDate:         Thu May 28 09:56:47 2026 UTC
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           2
+Encrypted:       no
+Page size:       595.276 x 841.89 pts (A4)
+Page rot:        0
+File size:       8184 bytes
+Optimized:       no
+PDF version:     1.4
+459 extracted_assignment.txt
+    Product Intern Assignment                                                                   DEADLINE
+                                                                                                                             31 Ma
+
+
+
+                                                    Competitor              Product
+ Market Research          Data Analysis             Research                Management                Problem Solving
+
+
+
+
+   Vocallabs.ai
+
+   AI voice agents automating business calls with human-like fluency
+
+
+
+   FEATURES                                                      MOATS
+     • AI voice agents for sales, support & booking —               • Full-stack ownership: design → execution →
+     natural, unscripted flows                                      analytics
+     • Intelligent Call Flow Builder for customizable AI call       • India-first: tuned for local languages, accents &
+     scripts                                                        workflows
+     • SDK, n8n node & Chrome extension for workflow                • Founder conviction: Joey Dash goes all-in
+     automation                                                     post-Subspace
+     • Hybrid model: seamless AI ↔ live agent transitions           • Data flywheel: proprietary conversation intelligence
+     • Voice analytics: emotion, intent & tone beyond               at scale
+     transcription
+
+
+
+
+   Subspace.money
+
+   Subscribe to anything, delivered in minutes — Subscriptions · Sharing · Rentals
+
+
+
+   FEATURES                                                      MOATS
+     • Subscription mgmt, group finance, bill splitting &           • Bootstrapped & profitable — rare in consumer
+     expense tracking                                               fintech
+     • Auto-detection & categorization of recurring                 • Network effects: group sharing gets stickier with
+     payments via API                                               more users
+     • Bill payments, digital subscriptions, gift cards —           • Negotiate API: automated price negotiation = hard
+     Android / iOS / Web                                            to replicate
+     • 90%+ ops powered by autonomous AI agents                     • AI-native ops: structurally lower costs at scale
+     • India's first subscription marketplace for local             • Rs.36.5 Cr ARR (FY25) with zero external funding
+     providers
+
+
+
+
+THE TASK
+Pick one of the two companies. Deliver a product teardown — your 5 sharpest feedbacks across the Product
+Pillars below. This is not a filter exercise; whoever joins owns and executes these from Day 1.
+                                                                                                         Potential
+        GTM & ICPs         Competitor Analysis     Features / Services            UX                   Collaborations
+
+
+Use SWOT / 7Ps / Porter's Five Forces or any framework at your disposal.
+
+Structure each feedback:
+ (a) Observed              What you actually saw in the app / website / flow
+
+ (b) Problem               Why it matters — the real user or business pain
+
+ (c) Ship instead          Your specific, actionable solution
+
+
+
+HOW WE'LL EVALUATE
+
+      MOVES FORWARD                                             DOESN'T MOVE FORWARD
+
+
+      Real, non-obvious observation      •    Specific          Generic     feedback   ("improve     UX", "add
+      screens/copy/flows • Tradeoff thinking • Clear            gamification") • All 5 in one area • Features
+      observation→problem→solution      chain        •          without an observed problem • Obvious signs the
+       Prioritisation logic                                     app wasn't used • Polished but shallow
+
+
+   We don't care about CV brand. We care whether you used the app, thought hard, and can communicate it clearly.
+
+
+
+NEXT STEPS
+  1       Go through the Website and Apps — use it like a real customer.
+
+  2       Attach supporting docs, slides, screenshots, or walkthroughs in your report.
+
+          Feel free to use Gen AI tools — but keep your feedback authentic, research-backed, and make sure you
+  3
+          distinguish yourself from other applicants.
+
+  4       Deadline: Sunday, 31 May 2026, 11:59 PM IST
+
+
+
+      Vocallabs.ai · Subspace.money                                 Product Intern Assignment · 2026

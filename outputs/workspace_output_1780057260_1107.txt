@@ -1,0 +1,212 @@
+=== BROWSER STATE ===
+URL: https://vocallabs.ai/contact
+Title: VocalLabs | AI Voice Agents & Conversational AI Solutions
+Result: Navigated to https://vocallabs.ai/contact (title: VocalLabs | AI Voice Agents & Conversational AI Solutions, status: 200)
+
+Interactive elements (43):
+  [0] a -> /
+  [2] a "Home" -> /
+  [3] button "Solutions"
+  [4] div "Industries"
+  [5] button "Industries"
+  [6] a "About Us" -> /about
+  [7] a "Docs" -> https://docs.vocallabs.ai
+  [8] a "Blogs" -> /blogs
+  [9] a "Careers" -> https://app.hiringg.ai/vocallabs
+  [10] a "GET STARTED⚡ 2 mins" -> /contact
+  [12] a "hello@vocallabs.ai" -> mailto:hello@vocallabs.ai
+  [13] a "🇺🇸 +1 984 255 0652" -> tel:+19842550652
+  [14] a "🇮🇳 +91 90198 22136" -> tel:+919019822136
+  [15] input type="text"
+  [16] input type="email"
+  [17] input type="tel"
+  [18] select "How did you hear about us?LinkedInInstagramFriendsGoogle Sea"
+  [19] input type="checkbox"
+  [20] a "Privacy Policy" -> /privacy-policy
+  [21] button type="submit" "Schedule Your Free Demo"
+  [22] a "Schedule Your Free Demo" -> /contact
+  [23] a -> https://www.linkedin.com/company/vocallabsai/
+  [24] a -> https://www.facebook.com/profile.php?id=61572573494501
+  [25] a -> https://www.instagram.com/vocallabsai/
+  [26] a -> https://www.x.com/vocallabsai
+  [27] a -> https://www.youtube.com/@vocallabsai
+  [28] a "About Us" -> /about
+  [29] a "Contact Us" -> /contact
+  [30] a "Pricing Policy" -> /pricing-policy
+  [31] a "Blogs" -> /blogs
+  [32] a "Careers" -> https://app.hiringg.ai/vocallabs
+  [33] a "Schedule Demo" -> /contact
+  [34] a "VocalFlow (Open Source)" -> /vocalflow
+  [35] a "PocoDisk (Open Source)" -> /pocodisk
+  [36] a "Noise Cancellation" -> /noise-cancellation
+  [37] a "Privacy Policy" -> /privacy-policy
+  [38] a "Terms & Conditions" -> /terms-and-conditions
+  [39] a "Refund Policy" -> /refund-policy
+  [40] a "Data Protection Addendum" -> /dpa
+  [41] a "Uptime Status" -> https://vocallabsai.betteruptime.com/
+  [42] a "Learn more" -> /privacy-policy
+  [43] button "Decline"
+  [44] button "Accept"
+
+Accessibility tree:
+Page text: Home Solutions Industries About Us Docs Blogs Careers GET STARTED ⚡ 2 mins Get in Touch Have questions about AI voice agents? We're here to help! Contact Information Email hello@vocallabs.ai Phone 🇺🇸 +1 984 255 0652 🇮🇳 +91 90198 22136 Location US Office 413 Willingham Rd. Morrisville, NC 27560 United States of America India Office No. 39, 8th Main Road Third Floor, Vasanth Nagar, Bangalore, Karnataka, India 560001 CIN: U63121KA2025PTC197380 Quick Response We typically respond to inquiries within 24 hours during business days. For immediate assistance, please call our support line. Get Your Free Demo How did you hear about us? LinkedIn Instagram Friends Google Search Other I allow Vocallabs AI to contact me for scheduling and marketing, as per its Privacy Policy Schedule Your Free Demo Enterprise & Security Your data security is our top priority. We maintain the highest standards of compliance and security certifications. Ready to transform your business? Schedule your free demo and see AI voice agents in action Schedule Your Free Demo VocalLabs Transforming businesses with intelligent AI voice agents Company About Us Contact Us Pricing Policy Blogs Careers Contact Schedule Demo Other Solutions VocalFlow (Open Source) PocoDisk (Open Source) Noise Cancellation Legal Privacy Policy Terms & Conditions Refund Policy Data Protection Addendum Uptime Status © 2025 Vocal Labs.ai. All rights reserved. We use cookies to improve your experience. Learn more Decline Accept
+
+Errors: Network Errors (5):
+   • GET https://vocallabs.ai/blogs?_rsc=h2vb-LAkAGynSY5z → FAILED: net::ERR_ABORTED
+   • GET https://vocallabs.ai/about?_rsc=h2vb-LAkAGynSY5z → FAILED: net::ERR_ABORTED
+   • GET https://vocallabs.ai/?_rsc=mTa8tpfUvA8h8GpF → FAILED: net::ERR_ABORTED
+   • GET https://vocallabs.ai/blogs?_rsc=T3x7Vec7D1PsxnYN → FAILED: net::ERR_ABORTED
+   • GET https://vocallabs.ai/privacy-policy?_rsc=mTa8tpfUvA8h8GpF → FAILED: net::ERR_ABORTED
+
+Screenshot: /workspace/.screenshots/step_001.png
+Use see-image to view: /workspace/.screenshots/step_001.png
+=== END ===
+=== BROWSER STATE ===
+URL: https://vocallabs.ai/contact
+Title: VocalLabs | AI Voice Agents & Conversational AI Solutions
+Result: Text from body: Home
+Solutions
+Industries
+About Us
+Docs
+Blogs
+Careers
+GET STARTED
+⚡ 2 mins
+Get in Touch
+
+Have questions about AI voice agents? We're here to help!
+
+Contact Information
+
+Email
+
+hello@vocallabs.ai
+
+Phone
+
+🇺🇸
++1 984 255 0652
+🇮🇳
++91 90198 22136
+
+Location
+
+US Office
+
+413 Willingham Rd.
+Morrisville, NC 27560
+United States of America
+
+India Office
+
+No. 39, 8th Main Road
+Third Floor, Vasanth Nagar,
+Bangalore, Karnataka,
+India 560001
+
+CIN: U63121KA2025PTC197380
+
+Quick Response
+
+We typically respond to inquiries within 24 hours during business days. For immediate assistance, please call our support line.
+
+Get Your Free Demo
+How did you hear about us?
+LinkedIn
+Instagram
+Friends
+Google Search
+Other
+I allow Vocallabs AI to contact me for scheduling and marketing, as per its Privacy Policy
+Schedule Your Free Demo
+Enterprise & Security
+
+Your data security is our top priority. We maintain the highest standards of compliance and security certifications.
+
+Ready to transform your business?
+
+Schedule your free demo and see AI voice agents in action
+
+Schedule Your Free Demo
+VocalLabs
+
+Transforming businesses with intelligent AI voice agents
+
+Company
+About Us
+Contact Us
+Pricing Policy
+Blogs
+Careers
+Contact
+Schedule Demo
+Other Solutions
+VocalFlow (Open Source)
+PocoDisk (Open Source)
+Noise Cancellation
+Legal
+Privacy Policy
+Terms & Conditions
+Refund Policy
+Data Protection Addendum
+Uptime Status
+
+© 2025 Vocal Labs.ai. All rights reserved.
+
+We use cookies to improve your experience. Learn more
+
+Decline
+Accept
+
+Interactive elements (43):
+  [0] a -> /
+  [2] a "Home" -> /
+  [3] button "Solutions"
+  [4] div "Industries"
+  [5] button "Industries"
+  [6] a "About Us" -> /about
+  [7] a "Docs" -> https://docs.vocallabs.ai
+  [8] a "Blogs" -> /blogs
+  [9] a "Careers" -> https://app.hiringg.ai/vocallabs
+  [10] a "GET STARTED⚡ 2 mins" -> /contact
+  [12] a "hello@vocallabs.ai" -> mailto:hello@vocallabs.ai
+  [13] a "🇺🇸 +1 984 255 0652" -> tel:+19842550652
+  [14] a "🇮🇳 +91 90198 22136" -> tel:+919019822136
+  [15] input type="text"
+  [16] input type="email"
+  [17] input type="tel"
+  [18] select "How did you hear about us?LinkedInInstagramFriendsGoogle Sea"
+  [19] input type="checkbox"
+  [20] a "Privacy Policy" -> /privacy-policy
+  [21] button type="submit" "Schedule Your Free Demo"
+  [22] a "Schedule Your Free Demo" -> /contact
+  [23] a -> https://www.linkedin.com/company/vocallabsai/
+  [24] a -> https://www.facebook.com/profile.php?id=61572573494501
+  [25] a -> https://www.instagram.com/vocallabsai/
+  [26] a -> https://www.x.com/vocallabsai
+  [27] a -> https://www.youtube.com/@vocallabsai
+  [28] a "About Us" -> /about
+  [29] a "Contact Us" -> /contact
+  [30] a "Pricing Policy" -> /pricing-policy
+  [31] a "Blogs" -> /blogs
+  [32] a "Careers" -> https://app.hiringg.ai/vocallabs
+  [33] a "Schedule Demo" -> /contact
+  [34] a "VocalFlow (Open Source)" -> /vocalflow
+  [35] a "PocoDisk (Open Source)" -> /pocodisk
+  [36] a "Noise Cancellation" -> /noise-cancellation
+  [37] a "Privacy Policy" -> /privacy-policy
+  [38] a "Terms & Conditions" -> /terms-and-conditions
+  [39] a "Refund Policy" -> /refund-policy
+  [40] a "Data Protection Addendum" -> /dpa
+  [41] a "Uptime Status" -> https://vocallabsai.betteruptime.com/
+  [42] a "Learn more" -> /privacy-policy
+  [43] button "Decline"
+  [44] button "Accept"
+
+Accessibility tree:
+Page text: Home Solutions Industries About Us Docs Blogs Careers GET STARTED ⚡ 2 mins Get in Touch Have questions about AI voice agents? We're here to help! Contact Information Email hello@vocallabs.ai Phone 🇺🇸 +1 984 255 0652 🇮🇳 +91 90198 22136 Location US Office 413 Willingham Rd. Morrisville, NC 27560 United States of America India Office No. 39, 8th Main Road Third Floor, Vasanth Nagar, Bangalore, Karnataka, India 560001 CIN: U63121KA2025PTC197380 Quick Response We typically respond to inquiries within 24 hours during business days. For immediate assistance, please call our support line. Get Your Free Demo How did you hear about us? LinkedIn Instagram Friends Google Search Other I allow Vocallabs AI to contact me for scheduling and marketing, as per its Privacy Policy Schedule Your Free Demo Enterprise & Security Your data security is our top priority. We maintain the highest standards of compliance and security certifications. Ready to transform your business? Schedule your free demo and see AI voice agents in action Schedule Your Free Demo VocalLabs Transforming businesses with intelligent AI voice agents Company About Us Contact Us Pricing Policy Blogs Careers Contact Schedule Demo Other Solutions VocalFlow (Open Source) PocoDisk (Open Source) Noise Cancellation Legal Privacy Policy Terms & Conditions Refund Policy Data Protection Addendum Uptime Status © 2025 Vocal Labs.ai. All rights reserved. We use cookies to improve your experience. Learn more Decline Accept
+
+Screenshot: /workspace/.screenshots/step_002.png
+Use see-image to view: /workspace/.screenshots/step_002.png
+=== END ===

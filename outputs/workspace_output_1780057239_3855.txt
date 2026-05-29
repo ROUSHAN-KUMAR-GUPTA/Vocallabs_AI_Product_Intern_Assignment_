@@ -1,0 +1,90 @@
+=== BROWSER STATE ===
+URL: https://vocallabs.ai/
+Title: VocalLabs | AI Voice Agents & Conversational AI Solutions
+Result: Navigated to https://vocallabs.ai/ (title: VocalLabs | AI Voice Agents & Conversational AI Solutions, status: 200)
+
+Interactive elements (57):
+  [0] a -> /
+  [2] a "Home" -> /
+  [3] button "Solutions"
+  [4] div "Industries"
+  [5] button "Industries"
+  [6] a "About Us" -> /about
+  [7] a "Docs" -> https://docs.vocallabs.ai
+  [8] a "Blogs" -> /blogs
+  [9] a "Careers" -> https://app.hiringg.ai/vocallabs
+  [10] a "GET STARTED⚡ 2 mins" -> /contact
+  [12] button "Talk to an Expert"
+  [13] button "Global TelephonyPhone numbers in 50+ countries, any protocol"
+  [14] button "API-nativeBuild and ship voice products with clean APIs."
+  [15] button "Model routingRoute calls to any LLM, TTS, or ASR provider."
+  [16] button "Automated testingTest your voice infrastructure before going"
+  [17] button "Traffic splittingSplit traffic across AI providers in real t"
+  [18] button "Bring your own modelsHost your LLM, TTS, or ASR on our infra"
+  [19] button
+  [20] button
+  [21] a -> https://vocalassist.ai/
+  [22] a -> https://app.vocalassist.ai/
+  [23] a -> https://app.vocalassist.ai/
+  [24] a -> https://vocalassist.ai/
+  [25] a -> https://app.vocallabs.ai/login
+  [26] a -> https://app.hiringg.ai/
+  [27] a -> https://hiringg.ai/
+  [28] a -> https://vocallabs.ai/products/vocallabs-identity
+  [29] a -> https://vocallabs.ai/products/vocalstack-voice
+  [30] a -> https://vocalassist.ai/
+  [31] a -> https://app.vocallabs.ai/login
+  [32] a -> https://app.hiringg.ai/
+  [33] a -> https://vocalassist.ai/
+  [34] a -> https://app.vocallabs.ai/login
+  [35] a -> https://app.hiringg.ai/
+  [36] a "Schedule Your Free Demo" -> /contact
+  [37] a -> https://www.linkedin.com/company/vocallabsai/
+  [38] a -> https://www.facebook.com/profile.php?id=61572573494501
+  [39] a -> https://www.instagram.com/vocallabsai/
+  [40] a -> https://www.x.com/vocallabsai
+  [41] a -> https://www.youtube.com/@vocallabsai
+  [42] a "About Us" -> /about
+  [43] a "Contact Us" -> /contact
+  [44] a "Pricing Policy" -> /pricing-policy
+  [45] a "Blogs" -> /blogs
+  [46] a "Careers" -> https://app.hiringg.ai/vocallabs
+  [47] a "Schedule Demo" -> /contact
+  [48] a "VocalFlow (Open Source)" -> /vocalflow
+  [49] a "PocoDisk (Open Source)" -> /pocodisk
+  [50] a "Noise Cancellation" -> /noise-cancellation
+  [51] a "Privacy Policy" -> /privacy-policy
+  [52] a "Terms & Conditions" -> /terms-and-conditions
+  [53] a "Refund Policy" -> /refund-policy
+  [54] a "Data Protection Addendum" -> /dpa
+  [55] a "Uptime Status" -> https://vocallabsai.betteruptime.com/
+  [56] a "Learn more" -> /privacy-policy
+  [57] button "Decline"
+  [58] button "Accept"
+
+Accessibility tree:
+Page text: Home Solutions Industries About Us Docs Blogs Careers GET STARTED ⚡ 2 mins Deploy and Scale Voice AI Voice AI infrastructure for developers. Telephony + AI model hosting that scales from zero to millions of concurrent calls. Talk to an Expert Voice AI infrastructure built to scale. Telephony Any Protocol. One API. SIP, WebRTC, and PSTN — unified under a single developer-friendly interface Reliability 99.9% Uptime. Always. Global redundancy and automatic failover, built into every call Scale Millions of Concurrent Calls Horizontal auto-scaling from a single call to millions — no manual provisioning AI Stack Host Your AI Models Co-locate your LLM, TTS, and ASR alongside telephony for the lowest possible latency Dev-First Ship in Hours, Not Months Clean REST APIs, typed SDKs, and webhooks — your first call is minutes away Latency Sub-300ms. Every Call. Real-time barge-in, live context updates, and studio-grade audio at any scale Reliable. Scalable. Secure. Global Telephony Phone numbers in 50+ countries, any protocol. API-native Build and ship voice products with clean APIs. Model routing Route calls to any LLM, TTS, or ASR provider. Automated testing Test your voice infrastructure before going live. Traffic splitting Split traffic across AI providers in real time. Bring your own models Host your LLM, TTS, or ASR on our infrastructure. The Future of Enterprise Voice AI Empower your business with intelligent, real-time voice agents that understand, converse, and act — just like humans. VocalLabs makes it simple to automate calls, support, and sales using natural voice technology. vocalassist.ai app.vocalassist.ai App.vocalassist Vocalassist App.vocallabs App.hiringg Hiringg Vocallabs Identity VocalStack Voice Vocalassist AI VocalLabs Dashboard Hiringg Platform VocalStack Platform VocalLabs App Hiringg Solution Enterprise & Security Your data security is our top priority. We maintain the highest standards of compliance and security certifications. Ready to transform your
+
+Errors: Console Errors (6):
+   • Failed to load resource: the server responded with a status of 403 () (https://lottie.host/13a6593d-202f-4c27-b12e-406844f76343/u6O8uhN32a.lottie:0)
+   • Failed to load animation data from URL: https://lottie.host/13a6593d-202f-4c27-b12e-406844f76343/u6O8uhN32a.lottie. Error: Failed to fetch animation data from URL: https://lottie.host/13a6593d-202f-4c27-b12e-406844f76343/u6O8uhN32a.lottie. 403:  (https://vocallabs.ai/_next/static/chunks/0p~86t3j6_.oe.js:532)
+   • Failed to load resource: the server responded with a status of 403 () (https://lottie.host/ace87f93-6fe4-440e-8291-7614f7654d67/NfnzQR5Fpu.lottie:0)
+   • Failed to load animation data from URL: https://lottie.host/ace87f93-6fe4-440e-8291-7614f7654d67/NfnzQR5Fpu.lottie. Error: Failed to fetch animation data from URL: https://lottie.host/ace87f93-6fe4-440e-8291-7614f7654d67/NfnzQR5Fpu.lottie. 403:  (https://vocallabs.ai/_next/static/chunks/0p~86t3j6_.oe.js:532)
+   • Failed to load resource: the server responded with a status of 403 () (https://lottie.host/d3b74cf1-e4ec-41b7-bf4e-34d11ba4256f/lm51gNiLOg.lottie:0)
+   • Failed to load animation data from URL: https://lottie.host/d3b74cf1-e4ec-41b7-bf4e-34d11ba4256f/lm51gNiLOg.lottie. Error: Failed to fetch animation data from URL: https://lottie.host/d3b74cf1-e4ec-41b7-bf4e-34d11ba4256f/lm51gNiLOg.lottie. 403:  (https://vocallabs.ai/_next/static/chunks/0p~86t3j6_.oe.js:532)
+Network Errors (4):
+   • GET https://lottie.host/13a6593d-202f-4c27-b12e-406844f76343/u6O8uhN32a.lottie → 403 
+   • GET https://lottie.host/ace87f93-6fe4-440e-8291-7614f7654d67/NfnzQR5Fpu.lottie → 403 
+   • GET https://lottie.host/d3b74cf1-e4ec-41b7-bf4e-34d11ba4256f/lm51gNiLOg.lottie → 403 
+   • POST https://www.youtube.com/api/stats/qoe?cpn=9mRWYgmrEAoionw5&el=embedded&ns=yt&fexp=v1%2C24004644%2C27058999%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35405%2C65297%2C15105%2C25059%2C4174%2C15862%2C14584%2C18706%2C21437%2C4571%2C13015%2C16088%2C6621%2C2783%2C23826%2C9500%2C1840%2C34245%2C6356%2C5114%2C13160%2C14527%2C16414%2C5021%2C9969%2C10620%2C4199%2C458%2C954%2C2754%2C12775%2C8147%2C1203%2C2197%2C1626%2C17715%2C6882%2C81%2C29961%2C4066%2C1428%2C2031%2C3620%2C2412%2C310%2C858%2C4%2C368%2C490%2C1682%2C642%2C2630%2C2314%2C8387%2C353%2C4891%2C1669%2C1165%2C3160%2C2587%2C3281%2C372%2C3350%2C5107%2C1039%2C860%2C3804%2C6685%2C2522%2C973%2C427%2C885&cl=919306992&seq=1&event=streamingstats&docid=XeIrrErzEbw&cbr=Chrome&cbrver=147.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=2.20260528.01.00&cplayer=UNIPLAYER&cos=X11&cplatform=DESKTOP&vps=0.000:N,0.024:B,1.101:ER&ctmp=dttg:t.0;dtt.1;gl.0&cat=streaming&cmt=0.024:0.000,1.101:0.000,1.101:0.000&bat=1.101:1:1&vis=1.101:0&bh=1.101:0.000&qclc=ChA5bVJXWWdtckVBb2lvbnc1EAE → FAILED: net::ERR_ABORTED
+Console Warnings (6):
+   • Unrecognized feature: 'web-share'.
+   • [.WebGL-0x12c400182600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+   • The resource https://vocallabs.ai/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+   • [.WebGL-0x12c400182600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+   • [.WebGL-0x12c400182600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+   • [.WebGL-0x12c400182600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+
+Screenshot: /workspace/.screenshots/step_000.png
+Use see-image to view: /workspace/.screenshots/step_000.png
+=== END ===

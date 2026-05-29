@@ -1,0 +1,36 @@
+287 vocallabs_product_teardown_under_299_words.md
+# Vocallabs.ai Product Teardown
+
+**Chosen company:** Vocallabs.ai  
+**Framework used:** Product pillars + SWOT thinking  
+**Length:** Under 299 words
+
+## 1. GTM / ICP
+
+**Observed:** Homepage says “Voice AI infrastructure for developers,” but the CTA says “Schedule demo” and “Get started in 2 mins” both lead to a contact form.  
+**Problem:** Developer-first buyers expect instant sandbox access; demo gating slows evaluation and weakens the “ship in hours” claim.  
+**Ship instead:** Add a self-serve starter path: API key, sample call flow, ₹/minute calculator, and one-click test call.
+
+## 2. UX
+
+**Observed:** The site lists many strong capabilities: telephony, model routing, traffic splitting, testing, BYO models, and sub-300ms latency.  
+**Problem:** Buyers may not know which feature solves their use case first. The page feels infrastructure-heavy but not use-case-led.  
+**Ship instead:** Add three guided flows: “Support automation,” “Sales qualification,” and “Appointment booking,” each with sample scripts and expected KPIs.
+
+## 3. Features / Services
+
+**Observed:** Docs currently surface IP whitelist, API keys, and webhooks prominently.  
+**Problem:** These are necessary but not enough for first-call success. A new developer needs a working recipe, not just settings.  
+**Ship instead:** Publish quickstarts for Twilio/SIP, webhook events, live transcript, fallback to human, and call analytics export.
+
+## 4. Competitor Analysis
+
+**Observed:** Vocallabs emphasizes India-first voice AI and global telephony.  
+**Problem:** Competitors like Bolna, Retell, and Vapi also claim low-latency agents, so differentiation is not instantly clear.  
+**Ship instead:** Add a comparison table focused on Indian accents, regional languages, PSTN reliability, compliance, and cost per successful call.
+
+## 5. Collaborations
+
+**Observed:** Product already mentions SDKs, APIs, and automation-friendly infrastructure.  
+**Problem:** GTM can scale faster through channels where call workflows already live.  
+**Ship instead:** Build integrations with Zoho, Freshdesk, HubSpot, Exotel, and n8n templates for Indian SMBs.
