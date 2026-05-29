@@ -50,6 +50,6 @@ The teardown includes five feedback points across the following areas:
 The teardown is based on publicly available information from Vocallabs.ai, including its website, product positioning, contact/demo flow, developer documentation, and listed product capabilities.
 
 ## Author
-Roushan Gupta
-B.Tech (Computer Science)
+-Roushan Gupta
+-B.Tech (Computer Science)
 
