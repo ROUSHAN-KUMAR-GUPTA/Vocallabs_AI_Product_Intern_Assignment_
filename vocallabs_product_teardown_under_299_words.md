@@ -2,7 +2,7 @@
 
 **Chosen company:** Vocallabs.ai  
 **Framework used:** Product pillars + SWOT thinking  
-**Length:** Under 299 words
+
 
 ## 1. GTM / ICP
 
