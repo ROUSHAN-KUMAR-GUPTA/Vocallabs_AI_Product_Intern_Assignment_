@@ -34,9 +34,14 @@ The teardown includes five feedback points across the following areas:
 
 ## Files in This Repository
 
+```text
+.
 ├── README.md
 ├── Product_Intern_Assignment.pdf
-└── vocallabs_product_teardown_under_299_words.md
+├── todo.md
+├── outputs/
+└── screenshots/
+```
 
 ## Tools / Research Used
 The teardown is based on publicly available information from Vocallabs.ai, including its website, product positioning, contact/demo flow, developer documentation, and listed product capabilities.
