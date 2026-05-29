@@ -34,7 +34,6 @@ The teardown includes five feedback points across the following areas:
 
 ## Files in This Repository
 
-.
 ├── README.md
 ├── Product_Intern_Assignment.pdf
 └── vocallabs_product_teardown_under_299_words.md
